@@ -43,3 +43,15 @@ The KPI visuals in the report provide a comprehensive view of PureSip Beverages�
 This dual-axis visual offers one of the most informative time-based insights in the report. Each month has a bar representing sales volume, while the overlaid line plot shows variance and continuity across the period. Key seasonal progression is observed, with the lowest turn over in Febuary(78.6K) to an August peak (116K). The slight dip in September, October, and November, followed by recovery in December, suggests potential seasonality or market-cycle behaviour. This visual supports forecasting, demand planning, and promotional strategy decisions.
 
 <img width="1146" height="297" alt="Screenshot 2025-12-07 200438" src="https://github.com/user-attachments/assets/af2d6e29-56eb-45e6-b50f-03e02ce5b1f2" />
+
+## 2.2.5 Map Visual: Sales by State (Geospatial Analysis)
+This map visual presents regional performance at the state level across North America. Power BI’s geospatial mapping enables geographic correlation, helping identify where sales concentrations are strong and where gaps or underdeveloped territories exist. Regions with higher colour density indicate stronger performance, offering immediate visual cues for sales coverage analysis, potential market expansion, resource reallocation, or territory-based strategic planning.
+
+<img width="515" height="472" alt="Screenshot 2025-12-07 201317" src="https://github.com/user-attachments/assets/177983ea-6244-4a56-8544-226f8fb169b5" />
+
+## Horizontal Bar Charts: Sales by Beverage Brand and Retailer
+This combined analysis uses horizontal bar charts to provide a clear comparative view of both product and retailer performance. The beverage brand chart ranks sales by product, highlighting Dasani Water, Coca-Cola, and Diet Coke as top performers, with Sprite, Powerade, and Fanta following. This ranking helps identify which product lines contribute most to total sales, supporting decisions around stock prioritization, promotional focus, and product lifecycle management. Simultaneously, the retailer chart shows the contribution of each customer, with Walmart leading at 391.8K, followed by Costco, Walgreens, and Target. Understanding this hierarchy aids in assessing dependency risk, optimizing partnership strategies, and, when combined with margin data, evaluating profitability across accounts. Power BI’s drill-down capabilities further allow exploration by region, month, or retailer for more granular insights.
+
+<img width="1055" height="467" alt="Screenshot 2025-12-07 201520" src="https://github.com/user-attachments/assets/9b2d78e7-5eda-401e-a4dd-1c99facd42eb" />
+
+
