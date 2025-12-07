@@ -7,13 +7,13 @@ PureSip Beverages is a growing beverage distribution company supplying popular b
 The objective of the project was to modernise PureSip’s reporting infrastructure by replacing manual spreadsheet-based reporting with an automated, scalable, and interactive analytics environment. The project aimed to integrate sales data from all regional managers into a centralised system using Power BI folder connections, improve data consistency and accuracy, and provide an analytical platform capable of delivering actionable insights on sales trends, retailer performance, and product-level contribution.
 # 1.3 Data Description
 Retailer: The name of the retailer where the beverage products was sold, e.g., "Costco" or
-"Walmart.“
-•Contact: Name or contact details of the retailer's representative or point of contact
-• Retailer ID: A unique identifier assigned to each retailer for tracking purposes
-• Order Date: The date on which the order was placed by the retailer
-• Payment Date: The date on which the payment for the order was received or processed
+"Walmart.“__
+•Contact: Name or contact details of the retailer's representative or point of contact__
+• Retailer ID: A unique identifier assigned to each retailer for tracking purposes__
+• Order Date: The date on which the order was placed by the retailer__
+• Payment Date: The date on which the payment for the order was received or processed__
 • Region--State: The geographic location of the retailer, including the region and state,
-e.g. South-Texas.
-• Beverage Brand: The brand of the beverage sold, e.g. Coca-Cola, Fanta, Sprite etc.
-• Price per Unit: The price charged per unit of the beverage
-• Units Sold: The quantity of beverage units sold in the transaction
+e.g. South-Texas.__
+• Beverage Brand: The brand of the beverage sold, e.g. Coca-Cola, Fanta, Sprite etc.__
+• Price per Unit: The price charged per unit of the beverage__
+• Units Sold: The quantity of beverage units sold in the transaction__
