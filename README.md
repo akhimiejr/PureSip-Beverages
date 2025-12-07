@@ -39,3 +39,7 @@ The KPI visuals in the report provide a comprehensive view of PureSip Beveragesâ
 <img width="356" height="631" alt="Screenshot 2025-12-07 200016" src="https://github.com/user-attachments/assets/9a8e7be5-9457-4dfe-b9b3-e3e1312ac7c5" />
 
 
+## 2.2.4 Sales Trend Over Time
+This dual-axis visual offers one of the most informative time-based insights in the report. Each month has a bar representing sales volume, while the overlaid line plot shows variance and continuity across the period. Key seasonal progression is observed, with growth from January (82.1K) to an August peak (116K). The slight dip in September, October, and November, followed by recovery in December, suggests potential seasonality or market-cycle behaviour. This visual supports forecasting, demand planning, and promotional strategy decisions.
+
+<img width="1146" height="297" alt="Screenshot 2025-12-07 200438" src="https://github.com/user-attachments/assets/af2d6e29-56eb-45e6-b50f-03e02ce5b1f2" />
